@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on these topics ;)
 - 📫 How to reach me 
 - .. email: amir dot rozenberg at gmail dot com
-- .. Linkedin: linkedin.com/in/amirrozenberg
+- .. Linkedin: http://www.linkedin.com/in/amirrozenberg
 - 
 
 <!---
