@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning mobile devops and security
 - 💞️ I’m looking to collaborate on these topics ;)
 - 📫 How to reach me 
-- .. email: amir dot rozenberg at gmail dot com
-- .. Linkedin: http://www.linkedin.com/in/amirrozenberg
-- 
+  -  email: amir dot rozenberg at gmail dot com
+  - Linkedin: http://www.linkedin.com/in/amirrozenberg
+
 
 <!---
 amirrozenberg/amirrozenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
